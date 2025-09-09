@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "08c1af5295a712da",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d163818390f717c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "534bec0a29ae26b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sentilens.io/TODOS.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TODOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ac9136b092a3c98",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1867aa3e7d0ec34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83504b6f45c753e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c6a02e9432d47f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "19d06ffcd4722570",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "71f4be76a645155f",
+    "type": "split",
+    "children": [
+      {
+        "id": "facf5b3e693d797a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e3f274b947376f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sentilens.io/TODOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TODOS"
+            }
+          },
+          {
+            "id": "6707e1a8c4beb7b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sentilens.io/TODOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODOS"
+            }
+          },
+          {
+            "id": "f70bd048ab23720b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b50e6c9d2036d155",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sentilens.io/Stripe/Webhook.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Webhook"
+            }
+          },
+          {
+            "id": "5deca520c1f47453",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 594.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "534bec0a29ae26b3",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2025-09-09.md",
+    "Sentilens.io/TODOS.md",
+    "Sentilens.io/Frontend/react-helmet.md",
+    "Sentilens.io/Frontend/react-snap.md",
+    "Sentilens.io/Frontend/depcheck.md",
+    "Sentilens.io/Frontend/Przydatne strony.md",
+    "Sentilens.io/Frontend",
+    "Sentilens.io/Backend",
+    "Sentilens.io/Backend/Django/DRF Standarized Errors.md",
+    "Sentilens.io/Backend/Django/Django removal.md",
+    "Sentilens.io/Backend/Django/Django All-auth.md",
+    "Sentilens.io/Backend/Django/Awesome Django.md",
+    "Sentilens.io/Backend/Django",
+    "Tasks Plugin - Review and check your Statuses 2025-09-07 14-11-36.md",
+    "Sentilens.io/Backend/Stripe/Stany subskrypcji.md",
+    "utwórz łącze.md",
+    "Sentilens.io/Backend/Stripe/Linki.md",
+    "Sentilens.io/Backend/Stripe/Webhook.md",
+    "Sentilens.io/Backend/Stripe/djstripe/Untitled.md",
+    "Sentilens.io/Backend/Stripe/djstripe",
+    "Sentilens.io/Untitled 1.md",
+    "Sentilens.io/Backend/Stripe",
+    "Sentilens.io/xx.md",
+    "Witaj.md",
+    "Untitled.md",
+    "Sentilens.io",
+    "2025-09-02.md",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "GitHub Theme",
+  "baseFontSize": 20,
+  "nativeMenus": false,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "style"
+  ]
+}

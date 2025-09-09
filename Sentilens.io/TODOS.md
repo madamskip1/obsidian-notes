@@ -1,0 +1,10 @@
+- [ ] Dodać rejestracje
+- [ ] Dodać [[Backend/Django/Django All-auth]]
+- [ ] Dodać [[Backend/Django/DRF Standarized Errors|DRF Standarized Errors]]
+- [ ] Przygotowanie landing page z [[Frontend/react-snap|react-snap]]
+- [ ] Przygotowanie metatags z [[Frontend/react-helmet|react-helmet]]
+- [x] Przejść na TypeScript ✅ 2025-09-07
+- [ ] Dodać lintery
+	- [ ] Linter react
+	- [ ] linter django?
+- [ ] React query

@@ -1,0 +1,11 @@
+{
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments"
+}
