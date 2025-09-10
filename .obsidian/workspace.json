@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentilens.io/Instagram/Błędy.md",
+                "file": "Sentilens.io/TODOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Błędy"
+              "title": "TODOS"
             }
           }
         ]
@@ -183,12 +183,13 @@
   },
   "active": "534bec0a29ae26b3",
   "lastOpenFiles": [
-    "Sentilens.io/Instagram/Linki Dev.md",
+    "Sentilens.io/Backend/Django/DRF Standarized Errors.md",
+    "Sentilens.io/TODOS.md",
     "Sentilens.io/Instagram/Błędy.md",
+    "Sentilens.io/Instagram/Linki Dev.md",
     "Sentilens.io/Instagram/API Comment.md",
     "Sentilens.io/Instagram/API Media.md",
     "Sentilens.io/Instagram/Linki na instagramie.md",
-    "Sentilens.io/TODOS.md",
     "Sentilens.io/Instagram",
     "Untitled.canvas",
     "2025-09-09.md",
@@ -198,7 +199,6 @@
     "Sentilens.io/Frontend/Przydatne strony.md",
     "Sentilens.io/Frontend",
     "Sentilens.io/Backend",
-    "Sentilens.io/Backend/Django/DRF Standarized Errors.md",
     "Sentilens.io/Backend/Django/Django removal.md",
     "Sentilens.io/Backend/Django/Django All-auth.md",
     "Sentilens.io/Backend/Django/Awesome Django.md",

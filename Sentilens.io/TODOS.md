@@ -7,4 +7,4 @@
 - [ ] Dodać lintery
 	- [ ] Linter react
 	- [ ] linter django?
-- [ ] React query
+- [x] React query ✅ 2025-09-10
