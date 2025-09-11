@@ -1,6 +1,6 @@
 - [ ] Dodać rejestracje
 - [ ] Dodać [[Backend/Django/Django All-auth]]
-- [ ] Dodać [[Backend/Django/DRF Standarized Errors|DRF Standarized Errors]]
+- [x] Dodać [[Backend/Django/DRF Standarized Errors|DRF Standarized Errors]] ✅ 2025-09-11
 - [ ] Przygotowanie landing page z [[Frontend/react-snap|react-snap]]
 - [ ] Przygotowanie metatags z [[Frontend/react-helmet|react-helmet]]
 - [x] Przejść na TypeScript ✅ 2025-09-07
@@ -8,3 +8,4 @@
 	- [ ] Linter react
 	- [ ] linter django?
 - [x] React query ✅ 2025-09-10
+- [ ] Instagram APP z wykorzystaniem django command
