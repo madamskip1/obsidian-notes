@@ -1,4 +1,4 @@
-- [ ] Dodać rejestracje
+- [x] Dodać rejestracje ✅ 2025-09-11
 - [ ] Dodać [[Backend/Django/Django All-auth]]
 - [x] Dodać [[Backend/Django/DRF Standarized Errors|DRF Standarized Errors]] ✅ 2025-09-11
 - [ ] Przygotowanie landing page z [[Frontend/react-snap|react-snap]]
