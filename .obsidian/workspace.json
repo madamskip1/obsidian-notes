@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "TODOS"
             }
+          },
+          {
+            "id": "64410410305537fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "534bec0a29ae26b3",
+  "active": "64410410305537fe",
   "lastOpenFiles": [
     "Sentilens.io/Frontend/depcheck.md",
     "Sentilens.io/Frontend/react-snap.md",
