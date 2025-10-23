@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentilens.io/TODOS.md",
+                "file": "Książki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODOS"
-            }
-          },
-          {
-            "id": "64410410305537fe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Książki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,13 +181,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "64410410305537fe",
+  "active": "534bec0a29ae26b3",
   "lastOpenFiles": [
+    "Książki.md",
+    "Sentilens.io/TODOS.md",
+    "Sentilens.io/Frontend/react-helmet.md",
+    "Witaj.md",
     "Sentilens.io/Frontend/depcheck.md",
     "Sentilens.io/Frontend/react-snap.md",
-    "Sentilens.io/Frontend/react-helmet.md",
     "Sentilens.io/Frontend/Przydatne strony.md",
-    "Sentilens.io/TODOS.md",
     "Sentilens.io/Backend/Django/Django All-auth.md",
     "Sentilens.io/Backend/Django/DRF Standarized Errors.md",
     "Sentilens.io/Instagram/Błędy.md",
@@ -226,8 +215,6 @@
     "Sentilens.io/Untitled 1.md",
     "Sentilens.io/Backend/Stripe",
     "Sentilens.io/xx.md",
-    "Witaj.md",
-    "Untitled.md",
     "Sentilens.io",
     "2025-09-02.md",
     "Untitled 1.canvas"

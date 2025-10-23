@@ -1,0 +1,5 @@
+- Dlaczego mądrzy ludzie popełniają głupstwa finansowe
+- Sztuka jasnego myślenia, czyli 52 błędy poznawcze, które lepiej niech popełniają inni
+- Jak google, bono i gates trzęsą światem dzięki metodzie OKR
+- Steve Jobs. Sztuka prezentacji
+- Wielki szort 
