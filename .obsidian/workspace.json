@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentilens.io/Instagram/API Comment.md",
+                "file": "Sentilens.io/Instagram/API Media.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API Comment"
+              "title": "API Media"
             }
           }
         ]
@@ -183,6 +183,9 @@
   },
   "active": "534bec0a29ae26b3",
   "lastOpenFiles": [
+    "Sentilens.io/Instagram/Linki Dev.md",
+    "Sentilens.io/Instagram/API Media.md",
+    "Sentilens.io/Instagram/API Comment.md",
     "Książki.md",
     "Sentilens.io/TODOS.md",
     "Sentilens.io/Frontend/react-helmet.md",
@@ -193,9 +196,6 @@
     "Sentilens.io/Backend/Django/Django All-auth.md",
     "Sentilens.io/Backend/Django/DRF Standarized Errors.md",
     "Sentilens.io/Instagram/Błędy.md",
-    "Sentilens.io/Instagram/Linki Dev.md",
-    "Sentilens.io/Instagram/API Comment.md",
-    "Sentilens.io/Instagram/API Media.md",
     "Sentilens.io/Instagram/Linki na instagramie.md",
     "Sentilens.io/Instagram",
     "Untitled.canvas",
